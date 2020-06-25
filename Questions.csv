@@ -1,0 +1,3 @@
+question,option1,option2,option3,option4,corr_opt,marks,Section
+Which of the following are true about the structures in C#,"Structures can have methods, fields, indexers, properties, operator methods, and events","Structures can have defined constructors, but not destructors. However, you cannot define a default constructor for a structure. The default constructor is automatically defined and cannot be changed.","Unlike classes, structures cannot inherit other structures or classes",Structures cannot be used as a base for other structures or classes,2,1,DS
+A ______ is defined as the execution path of a program,Class,Object,Properties,Thread,4,1,CSharp
